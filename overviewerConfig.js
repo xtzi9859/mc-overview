@@ -27,7 +27,7 @@ var overviewerConfig = {
     ],
     "map": {
         "debug": false,
-        "cacheTag": "1673020141",
+        "cacheTag": "1673525397",
         "north_direction": "lower-left",
         "controls": {
             "pan": true,
@@ -42,29 +42,29 @@ var overviewerConfig = {
     "tilesets": [
         {
             "name": "Normal Render of My World",
-            "zoomLevels": 8,
+            "zoomLevels": 9,
             "defaultZoom": 1,
-            "maxZoom": 8,
+            "maxZoom": 9,
             "path": "normalrender",
             "base": "",
             "bgcolor": "#1a1a1a",
             "world": "converted",
-            "last_rendertime": 1673019814,
+            "last_rendertime": 1673525164,
             "imgextension": "png",
             "isOverlay": false,
             "poititle": "Markers",
             "showlocationmarker": true,
             "center": [
-                -32,
-                128,
-                -32
+                -96,
+                80,
+                -96
             ],
             "lastrenderversion": 2,
             "minZoom": 0,
             "spawn": [
-                -32,
-                128,
-                -32
+                -96,
+                80,
+                -96
             ],
             "north_direction": 0
         }
